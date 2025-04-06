@@ -1,4 +1,4 @@
-Sure! Here's a simple example of a README file for your repository `solana-ts-nft`:
+
 
 ```markdown
 # Solana TypeScript NFT Project
